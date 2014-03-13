@@ -78,3 +78,6 @@ Academic Integrity:
 Plagiarism, cheating, and other misconduct are serious violations of your contract as a student. **We expect that you will know and follow the University's policies on cheating and plagiarism.** Any suspected cases of academic misconduct will be handled according to University regulations.  
 
 Field Trips:  We will go on several field trips during the lab sessions. One or two will occur during normal lab hours. Field trips will be on Saturdays due to tides.  
+
+---
+

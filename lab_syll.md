@@ -4,27 +4,27 @@
 
 
 
-Teaching Assistants    Jake Heare and Claire Olson
+Teaching Assistants    Jake Heare and Claire Olson   
+Jessica Blanchette and Hannah Wear
 
-Email                           jheare@uw.edu, che625@uw.edu
+Email                           setup catalyst mail that goes to all
 
-Phone                          (206) 616-6341
 
-Office                          FTR 132 (Jake) and FTR 134 (Claire)
-
+~~Office                          FTR 132 (Jake) and FTR 134 (Claire)
+~~
  
 
 **Attendance**: This is a laboratory course so attendance is required.
 If you cannot attend the lab session because of illness or emergency,
-please **call or email before class**.  There are three field trips for
+please **call or email before class**.  There are two field trips for
 this lab course.  One required field trip takes place during regularly
-scheduled lab time, but will be a late return. Two **weekend field
-trips** are scheduled and **attendance to one of these trips is
+scheduled lab time, but will be a late return. One **weekend field
+trip (May 17)** is scheduled and **attendance to this trip is
 mandatory** (but you are encouraged to and may attend both).
 
 **Grades**: The lab part of the course is worth 30% of your total grade.
 
-                        Lab Worksheets                      10%
+                        Lab Worksheets/Exams                      10%
 
                         Lab Report:                             10%
 
@@ -34,24 +34,23 @@ mandatory** (but you are encouraged to and may attend both).
 
 **Lab reports: **You will all write a lab report for the Ocean
 Acidification two part lab. The **draft lab report is due on April
-18/19** (your lab day). You will go through a peer review process with
-reviewed papers due the next week (**reviews due April 25/26).**   The
+21/22** (your lab day). You will go through a peer review process with
+reviewed papers due the next week (**reviews due April 28/29).**   The
 reviews should include constructive comments on improving the report and
 a “grade” (Poor, Fair, Good, Very Good, or Excellent). **The final lab
-report is due on May 7/8**.  **All reports are due by midnight on the
+report is due on May 12/13**.  **All reports are due by midnight on the
 due date and must be turned in via the class website dropbox.**
 
 **Worksheets: **In each lab period you will fill out a worksheet. This
 worksheet is due at the end of the lab period.
 
 **Species report: **Each student will choose an invertebrate species to
-profile.  Species profiles will consist of a website with information,
-references, and pictures of the species or a youtube video including the
-same information in a creative way.  More details on website
-design/video will follow. **The species profile website is due on May
-21/22.**  **Each student will be required to give a five minute
+profile.  Species profiles will consist of a youtube video with information,
+references, and pictures of the species in a creative way.  More details on 
+the video will follow. **The species profile video is due on May
+28/29.**  **Each student will be required to give a five minute
 Powerpoint or video presentation on their species during lab May
-21/22**.  
+28/29**.  
 
 ---
 
@@ -98,22 +97,22 @@ IF YOU DON’T KNOW, ASK!!!
 | Week | Dates       | Topic                                                      |
 |------|-------------|------------------------------------------------------------|
 | 1    | Mar 31-Ap1  | NO LAB                                                     |
-|      | Apr 2-3     | Lab Intro                                                  |
-| 2    | Apr 7-8     | Ocean Acidification Lab I                                  |
-|      | Apr 9-10    | Intro to Cnidaria                                          |
-| 3    | Apr 14-15   | Ocean Acidification Lab II                                 |
-|      | Apr 16-17   | Writing Workshop                                           |
-| 4    | Apr 21-22   | Mollusc 1: Introduction to Molluscs                        |
-|      | Apr 23-24   | Mollusc 2: Bivalves                                        |
-| 5    | Apr 28-29   | Mollusc 3: Field trip shellfish hatchery (**late return**) |
-|      | Apr 30-May1 | Mollusc 4: Gastropods / Cephalopods                        |
-| 6    | May 5-May 6 | Intro to  Arthropoda                                       |
-|      | May 7-8     | Arthropod 2: Crab dissection                               |
-| 7    | May 12-13   |                                                            |
-|      | May 14-15   | Arthropod 3: Crustacean Development, Senses and More       |
-| 8    | May 19-20   | No lab - Saturday field trip                               |
-|      | May 21-22   | Echinoderms                                                |
+|      | Apr 2-3     | Lab Intro (J & C)                                          |
+| 2    | Apr 7-8     | Ocean Acidification Lab I (J)                              |
+|      | Apr 9-10    | Intro to Cnidaria (C)                                      |
+| 3    | Apr 14-15   | Ocean Acidification Lab II (J)                             |
+|      | Apr 16-17   | Writing Workshop (C)                                       |
+| 4    | Apr 21-22   | Mollusc 1: Introduction to Molluscs (J)                    |
+|      | Apr 23-24   | Mollusc 2: Bivalves (C)                                    |
+| 5    | Apr 28-29   | Mollusc 3: Field trip to Montlake (**late return**)        |
+|      | Apr 30-May1 | Mollusc 4: Gastropods / Cephalopods (C)                    |
+| 6    | May 5-May 6 | Lab Midterm Exam                                           |
+|      | May 7-8     | Intro to  Arthropoda (C)                                   |
+| 7    | May 12-13   | Arthropod 2: Crab dissection (J)                           |
+|      | May 14-15   | Arthropod 3: Crustacean Development, Senses and More (C)   |
+| 8    | May 19-20   | Echinoderms (J)                                            |
+|      | May 21-22   | Parasites (C)                                              |
 | 9    | May 26-27   | HOLIDAY                                                    |
 |      | May 28-29   | Species Report Presentations                               |
-| 10   | June 2-3    | Parasites                                                  |
+| 10   | June 2-3    | Lab Final Exam                                             |
 |      | June 4-5    | REVIEW SESSION                                             |
