@@ -98,14 +98,19 @@ IF YOU DON’T KNOW, ASK!!!
 
 
 
-Week | Date | Lab  | Notes | 
------------- | ------------- | ------------  |
-1 | Mar 31-Apr1 | NO LAB  |  
-  | Apr 2-3  | Lab Intro  |  
-2 | Apr 7-8 | Ocean Acidification Lab I  |  
-  | Apr 9-10  | Intro to Cnidaria  |  
-3 | Apr 14-15 | Ocean Acidification Lab II  |  
-  | Apr 16-17 | Writing Workshop  |   Lab report draft due
+| Week | Date | Lab  | Notes |      
+| ------------ | ------------- | ------------  |     
+| 1 | Mar 31-Apr1 | NO LAB  |      
+|  | Apr 2-3  | Lab Intro  |    
+| 2 | Apr 7-8 | Ocean Acidification Lab I  |     
+|  | Apr 9-10  | Intro to Cnidaria  |    
+| 3 | Apr 14-15 | Ocean Acidification Lab II  |    
+|  | Apr 16-17 | Writing Workshop  |      
+ 
+  
+  
+  
+  
 
 
 
