@@ -95,161 +95,35 @@ IF YOU DON’T KNOW, ASK!!!
 
 
 ###Laboratory Schedule
-
-
-
-| Week | Date | Lab  | Notes |      
-| ------------ | ------------- | ------------  |     
-| 1 | Mar 31-Apr1 | NO LAB  |      
-|  | Apr 2-3  | Lab Intro  |    
-| 2 | Apr 7-8 | Ocean Acidification Lab I  |     
-|  | Apr 9-10  | Intro to Cnidaria  |    
-| 3 | Apr 14-15 | Ocean Acidification Lab II  |    
-|  | Apr 16-17 | Writing Workshop  |      
- 
+| Week                                                 | Dates                      | Topic                                                      | Weekend field trips | Assignments Due           |   |
+|------------------------------------------------------|----------------------------|------------------------------------------------------------|---------------------|---------------------------|---|
+| 1                                                    | Mar 31-Ap1                 | NO LAB                                                     |                     |                           |   |
+|                                                      | Apr 2-3                    | Lab Intro                                                  |                     |                           |   |
+| 2                                                    | Apr 7-8                    | Ocean Acidification Lab I                                  |                     |                           |   |
+|                                                      | Apr 9-10                   | Intro to Cnidaria                                          |                     |                           |   |
+| 3                                                    | Apr 14-15                  | Ocean Acidification Lab II                                 |                     |                           |   |
+|                                                      | Apr 16-17                  | Writing Workshop                                           |                     | Lab report draft due      |   |
+| 4                                                    | Apr 21-22                  | Mollusc 1: Introduction to Molluscs                        |                     |                           |   |
+|                                                      | Apr 23-24                  | Mollusc 2: Bivalves                                        |                     |                           |   |
+| 5                                                    | Apr 28-29                  | Mollusc 3: Field trip shellfish hatchery (**late return**) |                     | Peer Reviews Due          |   |
+|                                                      | Apr 30-May1                | Mollusc 4: Gastropods / Cephalopods                        |                     |                           |   |
+| 6                                                    | May 5-May 6                | Intro to  Arthropoda                                       |                     |                           |   |
+|                                                      |                            |                                                            |                     |                           |   |
+|                                                      | May 7-8                    | Arthropod 2: Crab dissection                               |                     |                           |   |
+| 7                                                    | May 12-13                  |                                                            |                     |                           |   |
+| May 14-15                                            | No lab - Sunday field trip |                                                            |                     |                           |   |
+| Arthropod 3: Crustacean Development, Senses and More | May 6: Alki field trip     | Final Lab Report Due                                       |                     |                           |   |
+|                                                      |                            |                                                            |                     |                           |   |
+| 8                                                    | May 19-20                  | No lab - Saturday field trip                               |                     |                           |   |
+|                                                      |                            |                                                            |                     |                           |   |
+|                                                      | May 21-22                  | Echinoderms                                                |                     |                           |   |
+| 9                                                    | May 26-27                  | HOLIDAY                                                    |                     | Species Report Videos Due |   |
+|                                                      | May 28-29                  | Species Report Presentations                               |                     |                           |   |
+| 10                                                   | June 2-3                   | Parasites                                                  |                     |                           |   |
+|                                                      | June 4-5                   | REVIEW SESSION                                             |                     |                           |   |
   
   
   
-  
-
-
-
-4
-
-Apr 21-22
-
-Mollusc 1: Introduction to Molluscs
-
- 
-
- 
-
- 
-
-Apr 23-24
-
-Mollusc 2: Bivalves
-
- 
-
-\
-
-5
-
-Apr 28-29
-
-Mollusc 3: Field trip shellfish hatchery (\*\*late return\*\*)
-
- 
-
- Peer Reviews Due
-
- 
-
-Apr 30-May1
-
-Mollusc 4: Gastropods / Cephalopods
-
- 
-
-\
-
-6
-
-May 5-May 6
-
-Intro to  Arthropoda
-
- 
-
- 
-
- 
-
- 
-
-May 7-8
-
-Arthropod 2: Crab dissection
-
- 
-
-7
-
-May 12-13
-
-May 14-15
-
-No lab - Sunday field trip
-
-Arthropod 3: Crustacean Development, Senses and More
-
-May 6: Alki field trip
-
-Final Lab Report Due
-
- 
-
-\
-
-\
-
-\
-
- 
-
-8
-
-May 19-20
-
-No lab - Saturday field trip
-
-\
-
- 
-
- 
-
- 
-
-May 21-22
-
-Echinoderms
-
-9
-
-May 26-27
-
-HOLIDAY
-
-\
-
-Species Report Videos Due
-
- 
-
-May 28-29
-
-Species Report Presentations
-
- 
-
-10
-
-June 2-3
-
-Parasites
-
- 
-
- 
-
- 
-
-June 4-5
-
-REVIEW SESSION
-
  
 
 \
