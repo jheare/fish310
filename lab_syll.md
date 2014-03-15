@@ -26,8 +26,8 @@ mandatory** (but you are encouraged to and may attend both).
 
 |Assignment   | Percent     
 |-------------|-------------
-|Lab Worksheets/Practical | 20%
-|Lab Report               |  5%
+|Lab Worksheets/Practicals| 20%
+|Lab Report               | 10%
 |Species Reports          |  5%
 
 

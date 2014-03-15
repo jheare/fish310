@@ -27,9 +27,28 @@ It is expected that student respect their peers and instructors. This includes b
  • Respecting time and effort of all instructors.    
  • Refraining from entering and exiting the classrooms in a disruptive manner. 
 
----
-   
-![grades](https://www.evernote.com/shard/s10/sh/28cb7bd0-8719-4b9d-9fbd-078550bf3cb3/0065c3d6f0725a2f6adb2bfc1730ff0c/deep/0/Screenshot%207/21/13%2010:00%20AM.png)
+
+
+
+|Assignment         |        Percent Grade    
+|-------------------|-------------------------    
+|Exam 1             | 15 
+|Exam 2             | 15
+|Participation      | 5
+|Weekly Quizzes     | 10
+|Final Exam         | 20
+|_Practicals / WS_    | 20
+|_Lab Report_         | 10
+|_Species Report_     | 5
+  
+
+
+
+
+4.0 Scale Conversion   
+![4scale](https://www.evernote.com/shard/s10/sh/9a111d86-8ae2-47ba-9592-14f61a296128/f5b89fd336cd91d514b6038343bdf7f7/deep/0/Catalyst-GradeBook.png)
+
+
 
 
 Late Policy:             
