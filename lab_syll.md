@@ -24,13 +24,12 @@ mandatory** (but you are encouraged to and may attend both).
 
 **Grades**: The lab part of the course is worth 30% of your total grade.
 
-                        Lab Worksheets/Exams                      10%
+|Assignment   | Percent     
+|-------------|-------------
+|Lab Worksheets/Practical | 20%
+|Lab Report               |  5%
+|Species Reports          |  5%
 
-                        Lab Report:                             10%
-
-                        Question Sets:                        5%
-
-                        Species Reports                      5%
 
 **Lab reports: **You will all write a lab report for the Ocean
 Acidification two part lab. The **draft lab report is due on April
@@ -39,18 +38,16 @@ reviewed papers due the next week (**reviews due April 28/29).**   The
 reviews should include constructive comments on improving the report and
 a “grade” (Poor, Fair, Good, Very Good, or Excellent). **The final lab
 report is due on May 12/13**.  **All reports are due by midnight on the
-due date and must be turned in via the class website dropbox.**
+due date and must be turned in via the class website**
 
 **Worksheets: **In each lab period you will fill out a worksheet. This
 worksheet is due at the end of the lab period.
 
 **Species report: **Each student will choose an invertebrate species to
-profile.  Species profiles will consist of a youtube video with information,
+profile.  Species profiles will consist of a video production with information,
 references, and pictures of the species in a creative way.  More details on 
 the video will follow. **The species profile video is due on May
-28/29.**  **Each student will be required to give a five minute
-Powerpoint or video presentation on their species during lab May
-28/29**.  
+28/29.**  **Students will unveil their production during the FISH310 film festival (during lab May 28/29)**.  
 
 ---
 
@@ -96,7 +93,7 @@ IF YOU DON’T KNOW, ASK!!!
 ###Laboratory Schedule
 | Week | Dates       | Topic                                                      |
 |------|-------------|------------------------------------------------------------|
-| 1    | Mar 31-Ap1  | NO LAB                                                     |
+| 1    | Mar 31-Apr1 | NO LAB                                                     |
 |      | Apr 2-3     | Lab Intro (J & C)                                          |
 | 2    | Apr 7-8     | Ocean Acidification Lab I (J)                              |
 |      | Apr 9-10    | Intro to Cnidaria (C)                                      |

@@ -21,6 +21,12 @@ Skill objectives:
  • Gathering, reading, and sharing on current events related to invertebrate biology   
  • Participation in discussions 
 
+General Behavior:   
+It is expected that student respect their peers and instructors. This includes but not limited to    
+ • Refraing from distracting behavior in class (texting, checking Facebook).   
+ • Respecting time and effort of all instructors.    
+ • Refraining from entering and exiting the classrooms in a disruptive manner. 
+
 ---
    
 ![grades](https://www.evernote.com/shard/s10/sh/28cb7bd0-8719-4b9d-9fbd-078550bf3cb3/0065c3d6f0725a2f6adb2bfc1730ff0c/deep/0/Screenshot%207/21/13%2010:00%20AM.png)
@@ -30,7 +36,7 @@ Late Policy:
 Assignments turned in late will be penalized (at least 5%) for each day they are late unless prior arrangements have been made. Question sets (online) will not be accepted after due date.
 
 Exams:                     
-Approximately 75% of the material on the exams will be from information presented in lecture or lab, and approximately 25% may be from the assigned reading. Class time and/or a time in lab will be scheduled for discussion and to answer questions for exams.
+Approximately 75% of the material on the exams will be from information presented in lecture or lab, and approximately 25% may be from the assigned reading and outside of classroom activites. 
 
 The three exams will consist of:  
 • Multiple choice   
