@@ -28,36 +28,47 @@ It is expected that student respect their peers and instructors. This includes b
  • Refraining from entering and exiting the classrooms in a disruptive manner. 
 
 
+<br>
 
+---
+
+<br>
+###GRADING 
 
 |Assignment         |        Percent Grade    
 |-------------------|-------------------------    
 |Exam 1             | 15 
 |Exam 2             | 15
-|Participation      | 5
-|Weekly Quizzes     | 10
+|Quizzes            | 7
+|Audience Response  | 10
 |Final Exam         | 20
 |_Practicals / WS_    | 20
-|_Lab Report_         | 10
+|_Lab Report_         | 8
 |_Species Report_     | 5
   
 
+<br>
+<br>   
+
+---
 
 
-
-4.0 Scale Conversion   
+4.0 Scale Conversion  
+<br> 
 ![4scale](https://www.evernote.com/shard/s10/sh/9a111d86-8ae2-47ba-9592-14f61a296128/f5b89fd336cd91d514b6038343bdf7f7/deep/0/Catalyst-GradeBook.png)
 
+
+---
 
 
 
 Late Policy:             
-Assignments turned in late will be penalized (at least 5%) for each day they are late unless prior arrangements have been made. Question sets (online) will not be accepted after due date.
+Assignments turned in late will be penalized (at least 5%) for each day they are late unless prior arrangements have been made. 
 
-Exams:                     
-Approximately 75% of the material on the exams will be from information presented in lecture or lab, and approximately 25% may be from the assigned reading and outside of classroom activites. 
+Class Response Activity:
+Tophat will be used in class for assessment. The platform will be used for weekly quizzes given each Monday.
 
-The three exams will consist of:  
+The two exams will consist of:  
 • Multiple choice   
 • Short answer (problems, definitions, compare-and-contrast, etc.)    
 • Short essay  
@@ -65,15 +76,10 @@ The three exams will consist of:
 
  The final exam will be comprehensive 
 
-Online question sets (Quizzes) will be posted every Monday and are due by Friday at midnight.
 
-Participation: 4pts will be for participation on Discussion board (2 posts per week). 1pt will be for class disscussion participation.
 
----
 
-###SCHEDULE
-_typical schedule_  
-<img src="https://www.evernote.com/shard/s10/sh/3495249f-4b86-4bfb-be27-b07e18db8150/aba8e530d44d7a8f8d1179c57d870ebe/deep/0/Screenshot%207/21/13%2010:02%20AM.png" alt="Screenshot%207/21/13%2010:02%20AM" /> 
+
 
 ---
 
@@ -102,7 +108,7 @@ If you would like to request academic accommodations due to a disability, please
 Academic Integrity: 
 Plagiarism, cheating, and other misconduct are serious violations of your contract as a student. **We expect that you will know and follow the University's policies on cheating and plagiarism.** Any suspected cases of academic misconduct will be handled according to University regulations.  
 
-Field Trips:  We will go on several field trips during the lab sessions. One or two will occur during normal lab hours. Field trips will be on Saturdays due to tides.  
+Field Trips:  We will go on several field trips during the lab sessions.   
 
 ---
 

@@ -16,11 +16,11 @@ Email                           setup catalyst mail th
 
 **Attendance**: This is a laboratory course so attendance is required.
 If you cannot attend the lab session because of illness or emergency,
-please **call or email before class**.  There are two field trips for
-this lab course.  One required field trip takes place during regularly
+please **email before class**.  There are two required field trips for
+this lab course.  One field trip takes place during regularly
 scheduled lab time, but will be a late return. One **weekend field
 trip (May 17)** is scheduled and **attendance to this trip is
-mandatory** (but you are encouraged to and may attend both).
+mandatory**
 
 **Grades**: The lab part of the course is worth 30% of your total grade.
 
@@ -32,10 +32,10 @@ mandatory** (but you are encouraged to and may attend both).
 
 
 **Lab reports: **You will all write a lab report for the Ocean
-Acidification two part lab. The **draft lab report is due on April
-21/22** (your lab day). You will go through a peer review process with
-reviewed papers due the next week (**reviews due April 28/29).**   The
-reviews should include constructive comments on improving the report and
+Acidification two part lab. The **draft lab report (Introduction and Methods) 
+is due on April 21/22** (your lab day). You will go through a peer review 
+process with reviewed papers due the next week (**reviews due April 28/29).**   
+The reviews should include constructive comments on improving the report and
 a “grade” (Poor, Fair, Good, Very Good, or Excellent). **The final lab
 report is due on May 12/13**.  **All reports are due by midnight on the
 due date and must be turned in via the class website**
@@ -95,10 +95,10 @@ IF YOU DON’T KNOW, ASK!!!
 |------|-------------|------------------------------------------------------------|
 | 1    | Mar 31-Apr1 | NO LAB                                                     |
 |      | Apr 2-3     | Lab Intro (J & C)                                          |
-| 2    | Apr 7-8     | Ocean Acidification Lab I (J)                              |
-|      | Apr 9-10    | Intro to Cnidaria (C)                                      |
-| 3    | Apr 14-15   | Ocean Acidification Lab II (J)                             |
-|      | Apr 16-17   | Writing Workshop (C)                                       |
+| 2    | Apr 7-8     | Intro to Cnidaria (J)                                      |
+|      | Apr 9-10    | Ocean Acidification Lab I (C)                              |
+| 3    | Apr 14-15   | Writing Workshop (J)                                       |
+|      | Apr 16-17   | Ocean Acidification Lab II (C)                             |
 | 4    | Apr 21-22   | Mollusc 1: Introduction to Molluscs (J)                    |
 |      | Apr 23-24   | Mollusc 2: Bivalves (C)                                    |
 | 5    | Apr 28-29   | Mollusc 3: Field trip to Montlake (**late return**)        |

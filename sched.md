@@ -1,3 +1,7 @@
-#FISH310 Schedule
+#FISH310 Lecture Schedule
 
-###Week 1 
+|  Date |Lecture   						                     |  notes  
+|----------------------------------------------------------|--------
+|  3/31 |Intro					                            |
+|       |Intro					                            |
+
