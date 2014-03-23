@@ -4,14 +4,17 @@
 
 
 
-Teaching Assistants    Jake Heare and Claire Olson   
-Jessica Blanchette and Hannah Wear
+###Teaching Assistants    
+####Jake Heare, Claire Olson, Jessica Blanchette, Hannah Wear
 
-Email                           setup catalyst mail that goes to all
+Email  setup catalyst mail that goes to all
 
 
-~~Office                          FTR 132 (Jake) and FTR 134 (Claire)
-~~
+**Office**      FTR 132 (Jake) and FTR 134 (Claire)
+
+**Office Hours by Appointment**
+
+Must Give 24 Hour prior notice by email
  
 
 **Attendance**: This is a laboratory course so attendance is required.
@@ -19,8 +22,7 @@ If you cannot attend the lab session because of illness or emergency,
 please **email before class**.  There are two required field trips for
 this lab course.  One field trip takes place during regularly
 scheduled lab time, but will be a late return. One **weekend field
-trip (May 17)** is scheduled and **attendance to this trip is
-mandatory**
+trip (May 17)** is scheduled.
 
 **Grades**: The lab part of the course is worth 30% of your total grade.
 
@@ -32,8 +34,8 @@ mandatory**
 
 
 **Lab reports: **You will all write a lab report for the Ocean
-Acidification two part lab. The **draft lab report (Introduction and Methods) 
-is due on April 21/22** (your lab day). You will go through a peer review 
+Acidification lab. The **draft lab report (Introduction and Methods) 
+is due on April 21/22**. You will go through a peer review 
 process with reviewed papers due the next week (**reviews due April 28/29).**   
 The reviews should include constructive comments on improving the report and
 a “grade” (Poor, Fair, Good, Very Good, or Excellent). **The final lab
@@ -41,13 +43,15 @@ report is due on May 12/13**.  **All reports are due by midnight on the
 due date and must be turned in via the class website**
 
 **Worksheets: **In each lab period you will fill out a worksheet. This
-worksheet is due at the end of the lab period.
+worksheet must be completed by the end of lab and will be checked by TAs. We will
+go over the answers at the beginning of the next lab, so make sure to bring your completed
+worksheets with you. 
 
 **Species report: **Each student will choose an invertebrate species to
 profile.  Species profiles will consist of a video production with information,
 references, and pictures of the species in a creative way.  More details on 
 the video will follow. **The species profile video is due on May
-28/29.**  **Students will unveil their production during the FISH310 film festival (during lab May 28/29)**.  
+28/29.**  **Students will unveil their production during the FISH310 "Shelle Film Festival" (during lab May 28/29)**.  
 
 ---
 
@@ -57,8 +61,7 @@ No food or drink (this includes gum)
 
 No cell phones in lab
 
-Always wear closed toed shoes (we will send you home if you don't have
-the correct footwear).
+Always wear closed toed shoes (Strictly Enforced).
 
 Put scalpel blades in the sharps container.
 
@@ -66,7 +69,7 @@ Handle preserved specimens and shells carefully.
 
 Rinse tools off before and after use.
 
-Wash your hands well to remove lotions or soaps before touching live
+Rinse your hands well with water only to remove lotions or soaps before touching live
 animals.
 
 Handle all animals gently.
@@ -78,14 +81,14 @@ Don’t feed the animals.
 
 Don’t let animals dry out.
 
-Never place dead animals in the garbage, but them in the bags provided.
+**Never place dead animals in the garbage, put them in the bags provided.**
 
 Put preserved animals back in the correct jar.
 
 Don’t mix instruments used with live and dead animals; clean the
 implements.
 
-IF YOU DON’T KNOW, ASK!!!
+If you are unsure of what to do, ask before you act. 
 
 ---
 
